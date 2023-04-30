@@ -1,0 +1,2 @@
+[web]
+10.128.0.5 ansible_ssh_pass=passwordindia@123
